@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/ForProjects/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/ForProjects/Lab8/task1 -g -o task1\\CMakeFiles\\task1.dir\\main.cpp.obj -c C:\\ForProjects\\Lab8\\task1\\main.cpp",
+  "file": "C:\\ForProjects\\Lab8\\task1\\main.cpp",
+  "output": "task1\\CMakeFiles\\task1.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/ForProjects/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/ForProjects/Lab8/task1 -g -o task1\\CMakeFiles\\task1.dir\\func1.cpp.obj -c C:\\ForProjects\\Lab8\\task1\\func1.cpp",
+  "file": "C:\\ForProjects\\Lab8\\task1\\func1.cpp",
+  "output": "task1\\CMakeFiles\\task1.dir\\func1.cpp.obj"
+},
+{
+  "directory": "C:/ForProjects/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/ForProjects/Lab8/task2 -g -o task2\\CMakeFiles\\task2.dir\\main.cpp.obj -c C:\\ForProjects\\Lab8\\task2\\main.cpp",
+  "file": "C:\\ForProjects\\Lab8\\task2\\main.cpp",
+  "output": "task2\\CMakeFiles\\task2.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/ForProjects/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/ForProjects/Lab8/task2 -g -o task2\\CMakeFiles\\task2.dir\\func2.cpp.obj -c C:\\ForProjects\\Lab8\\task2\\func2.cpp",
+  "file": "C:\\ForProjects\\Lab8\\task2\\func2.cpp",
+  "output": "task2\\CMakeFiles\\task2.dir\\func2.cpp.obj"
+},
+{
+  "directory": "C:/ForProjects/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/ForProjects/Lab8/task3 -isystem C:/msys64/mingw64/include/opencv4 -g -o task3\\CMakeFiles\\Task3.dir\\main.cpp.obj -c C:\\ForProjects\\Lab8\\task3\\main.cpp",
+  "file": "C:\\ForProjects\\Lab8\\task3\\main.cpp",
+  "output": "task3\\CMakeFiles\\Task3.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/ForProjects/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/ForProjects/Lab8/task3 -isystem C:/msys64/mingw64/include/opencv4 -g -o task3\\CMakeFiles\\Task3.dir\\func3.cpp.obj -c C:\\ForProjects\\Lab8\\task3\\func3.cpp",
+  "file": "C:\\ForProjects\\Lab8\\task3\\func3.cpp",
+  "output": "task3\\CMakeFiles\\Task3.dir\\func3.cpp.obj"
+}
+]
